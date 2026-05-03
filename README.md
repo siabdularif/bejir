@@ -42,12 +42,12 @@ That's it. Claude finds the app on Google Play, downloads the APK, decompiles it
 
 **Marketplace:**
 ```
-/plugin marketplace add Eyali1001/apkre
+/plugin marketplace add siabdularif/bejir
 ```
 
 **Manual:**
 ```bash
-git clone --recurse-submodules git@github.com:Eyali1001/apkre.git
+git clone --recurse-submodules git@github.com:siabdularif/bejir.git
 ```
 ```
 /plugin add /path/to/apkre

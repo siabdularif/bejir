@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "description": "Security audit Android APKs — download, decompile, extract APIs, analyze auth, find unauthenticated endpoints, and generate a structured report.",
   "author": {
-    "name": "Eyali1001"
+    "name": "siabdularif",
+    "url": "https://github.com/siabdularif"
   },
-  "repository": "https://github.com/Eyali1001/apkre",
+  "repository": "https://github.com/siabdularif/bejir",
   "license": "MIT",
   "keywords": [
     "android",
@@ -14,5 +15,7 @@
     "apk",
     "reverse-engineering",
     "api-extraction"
-  ]
+  ],
+  "skills": "./skills/",
+  "commands": "./commands/"
 }
